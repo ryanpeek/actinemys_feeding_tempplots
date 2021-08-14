@@ -41,3 +41,7 @@ vignettes/*.pdf
 
 # Ignore large tiffs
 figs/*tiff
+
+# ds store
+.DS_Store
+*/DS_Store
